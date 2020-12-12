@@ -1,0 +1,10 @@
+Trong maquette o moi phan dien cau tra loi thi de trong
+Them vao ca nhung truong hop erreur cua moi phan
+Them phan giai thich moi menu lam gi trong phan menu principal
+Trong arborescence, neu truong hop boucle o moi sous menu quay nguoc lai menu principal thi de 2 chieu mui ten
+
+Them vao algo dong programme ... o dau moi sous programme
+
+Palindrome dung boolean cho cau tra loi co phai la palindrome hay ko
+
+Sua lai programme sao cho trong principal programme chi dung de goi sous programme 
